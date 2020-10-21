@@ -1,5 +1,7 @@
 # ImageMagick_DiscordBot
 
+This bot adds a caption to a photo.
+
 https://python.org
 
 https://github.com/Rapptz/discord.py
